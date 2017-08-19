@@ -1,11 +1,11 @@
 #Java-Combinatorics
 
-package combinatorics;
+    package combinatorics;
 
-import java.util.*;
-import java.math.*;
+    import java.util.*;
+    import java.math.*;
 
-public class Combinatorics { 
+    public class Combinatorics { 
     //Combinatorics Class
     //Cominatorics defined: A branch or mathematics that studies finite discrete structures.
     //factorial method: n! is used to count the number of ways to arrange n distinct objects into a sequence.
